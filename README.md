@@ -1,4 +1,4 @@
-programming for cyber security coursework
+Security Tool MENU
 -
 
 student details Name: Azaan Ashraf Banner ID: B01860586 the campus I go to is UWS Lanarkshire Campus .
@@ -10,11 +10,9 @@ repository overview in this repository contains the program that was requested f
 Description of the Program and how the program works
 -
 
-The Security Tool program is tool that requires the user to log in to the tool before accessing a menu of Cyber Security Functions such as A security event counter a brute force simulator , the ability to test Login authentication of the tool and finally being able to exit the security tool program.
+The Security Tool program is tool that requires the user to log in to the tool before accessing a menu of 4 Cyber Security Functions such as A security event counter a brute force simulator , the ability to test Login authentication of the tool and finally being able to exit the security tool program.
 
-The Username used in this program is azaan.
-
-the password used in this program is pass123.
+The Username used in this program is admin the password used in this program is pass123 having a username and password helps keep this Security tool menu secure without any unauthorised access happening.
 
 Menu Options/Functions
 -
@@ -33,3 +31,16 @@ This option will ask the user to enter the username and password the user gets a
 Option 4- Exit
 -
 This option will close and exit the program and print a thank you message to the user.
+
+The file used is 
+SecurityTool.py 
+-
+
+How to Run this Program using VScode
+-
+
+Step 1 - download the file
+Step 2 - Open the File on your Computer
+Step 3 - Open the terminal of VScode
+Step 4 - Navigate to where you have saved the program in your files
+Step 5 - Run the file 
