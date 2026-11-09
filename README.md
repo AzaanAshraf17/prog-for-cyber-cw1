@@ -28,7 +28,12 @@ the file used is Security Event Logger.py
 How to Run this Program using VScode
 -
 Step 1 - download the file 
-Step 2 - Open the File on your Computer 
-Step 3 - Open the terminal of VScode 
+-
+Step 2 - Open the File on your Computer
+-
+Step 3 - Open the terminal of VScode
+-
 Step 4 - Navigate to where you have saved the program in your files
+-
 Step 5 - Run the file
+-
