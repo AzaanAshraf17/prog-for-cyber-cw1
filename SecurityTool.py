@@ -9,7 +9,7 @@ password = input("Enter the password: ")
 
 # the while loop will ask the user until the correct password a username are enterted
 while username != correct_username or password != correct_password:
-    print("incorrect username or password")
+    print("incorrect username or password please try again")
     username = input("Enter the Username: ")
     password = input("Enter the password: ")
 
@@ -50,6 +50,7 @@ while choice != 4:
 
         percentage = incorrect * 10
 
+        print("The Results are:")
         print("Correct:", correct)
         print("incorrect:", incorrect)
         print("incorrect percentage:", percentage)
@@ -67,6 +68,10 @@ while choice != 4:
         # while loop will allow user gets a  Max of 5 attempts
         while guess != password and attempts < 5:
             guess = input("Guess the password:")
+             
+            if guess != password:
+                print("Password is incorrect please try again")
+            
             attempts += 1
       
       #if user enters wrong the Max attempts are reached
@@ -106,4 +111,4 @@ while choice != 4:
 
     #anything else that 1 - 4
     else:
-        print("invalid option")
+        print("invalid option please enter a number between 1 and 4")
