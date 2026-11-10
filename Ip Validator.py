@@ -12,10 +12,10 @@ def validate_ip(ip):
     if ip.count(".") != 3:
         return False
 
-    #  will Split the IP address into parts
+    #  will Split the IP address into parts called octets  
     parts = ip.split(".")
 
-    #  will Check that there are 4 parts in IP
+    #  will Check that there are 4 octets in IP
     if len(parts) != 4:
         return False
 
@@ -40,7 +40,7 @@ def validate_ip(ip):
 # Ask the user for their IP
 ip_address = input("Enter an IP address: ")
 
-# Checks if the IP is valid and prints the results to the user
+# Check if the IP is valid and prints the results to the user
 if validate_ip(ip_address):
     print("The IP address is valid")
 else:
