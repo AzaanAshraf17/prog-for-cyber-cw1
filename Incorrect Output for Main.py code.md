@@ -1,4 +1,4 @@
-<img width="659" height="232" alt="image" src="https://github.com/user-attachments/assets/60914867-cd36-49fe-ad64-82d72fb5787f" />
+<img width="1398" height="433" alt="Cyber Security Utilities incorrect output photo" src="https://github.com/user-attachments/assets/0331a792-b6ef-46f3-8c04-3719fe219cfe" />
 
 This photo shows that the password entered by the user is not strong enough and the Ip that was entered is not a valid Ip.
 
