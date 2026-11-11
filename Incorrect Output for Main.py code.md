@@ -2,4 +2,4 @@
 
 This photo shows that the password entered by the user is not strong enough and the Ip that was entered is not a valid Ip.
 
-The Program also suggests to the user a stronger password that they could potentially use instead of the one they wrote 
+The Program also suggests to the user a stronger password that they could potentially use instead of the one they wrote.
