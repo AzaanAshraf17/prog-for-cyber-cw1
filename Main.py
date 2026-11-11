@@ -5,7 +5,7 @@ print("Welcome to the CYBER SECURITY UTILITIES PROGRAM")
 print ("================================")
 
 #Ask the user to enter a password
-password =input("Please enter a password: ")
+password =input("Please enter a password and make sure the password is atleast 8 characters long or more: ")
 
 #Check if the password the user entered is valid
 if security_tools.validate_password(password):
