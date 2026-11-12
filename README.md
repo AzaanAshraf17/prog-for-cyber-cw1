@@ -4,9 +4,9 @@ prog-for-cyber-cw1
 Ip Validator Program
 -
 
-student details Name: Azaan Ashraf Banner 
+student details Name: Azaan Ashraf 
 -
-ID: B01860586 
+Banner ID: B01860586 
 -
 the campus I go to is UWS Lanarkshire Campus .
 -
