@@ -4,7 +4,9 @@ prog-for-cyber-cw1
 Security Incident Manager Program
 -
 
-student details Name: Azaan Ashraf Banner ID: B01860586 the campus I go to is UWS Lanarkshire Campus .
+student details Name: Azaan Ashraf 
+Banner ID: B01860586 
+the campus I go to is UWS Lanarkshire Campus
 -
 
 Description of the Program and how the program works
