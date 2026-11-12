@@ -19,7 +19,9 @@ This program requires the user to log in using a stored username and password th
 the program imports the necessary python modules:
 
 Random - Generates the Event ID
+
 Datetime - Records Timestamps
+
 socket - for obtaining the users IP address
 
 if the login fails from incorrect credentials being entered it logs and records the failed security event and displays alongside it the Event ID, Username , IP , Timestamp and event type are displayed to the user it will also ask the user to try enter the right username and password again.
