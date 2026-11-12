@@ -21,11 +21,17 @@ The program will check that the Ip address contains 4 numbers that are separated
 The program works by using the function validate_ip () this contains validation checks. So when the user enters an Ip address this function will do the following. 
 
 1.Remove any spaces before and after the IP address.
+
 2.Checks that the IP contains Dots as IP must contain them. 
+
 3.Checks that the IP address contains 3 dots.
+
 4. It will split the IP address into 4 separate sections that are called octets.
+   
 5. Program checks that there are 4 octets.
-6. Program will then verify each octet contain only a integer value. 
+   
+6. Program will then verify each octet contain only a integer value.
+   
 7. Program checks that each octet is between the value 0 - 255.
 
 if the all the checks made by the function are true the program will display that the IP address is valid to the user.
